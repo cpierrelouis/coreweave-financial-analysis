@@ -1,0 +1,22 @@
+Package: ClimateTweetStats
+Title: What the Package Does (One Line, Title Case)
+Version: 0.0.0.9000
+Authors@R: Christie Pierre-Louis
+    person("christie", "Pierre-Louis", , "cpierrelouis310@gmail.com", role = c("aut", "cre"))
+Description: package that processes and visualizes climate-related sentiments
+  from Twitter post. This includes temperature anomaly,
+  sentiment trends and comparisons, and emotional location insight. 
+  Useful for exploring how public sentiment shifts in response to environmental extremes.
+License: MIT 
+Encoding: UTF-8
+Roxygen: list(markdown = TRUE)
+RoxygenNote: 7.3.2
+Depends: 
+    R (>= 3.5)
+LazyData: true
+Imports:
+    ggplot2,
+    dplyr,
+    stats,
+    readr
+    
