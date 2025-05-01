@@ -19,4 +19,5 @@ Imports:
     dplyr,
     stats,
     readr
-    
+URL: https://github.com/cplbabycodes/ClimateTweetStats
+BugReports: https://github.com/cplbabycodes/ClimateTweetStats/issues
